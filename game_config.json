@@ -1,0 +1,48 @@
+{
+    "questionData" :{
+        "question" : "Define if vowel or consonant",
+        "categories" : ["Vowel", "Consonant"],
+        "choices" : [
+            {
+                "name": "A",
+                "catIndex": 0
+            },
+            {
+                "name": "E",
+                "catIndex": 0
+            },
+            {
+                "name": "I",
+                "catIndex": 0
+            },
+            {
+                "name": "O",
+                "catIndex": 0
+            },
+            {
+                "name": "U",
+                "catIndex": 0
+            },
+            {
+                "name": "Q",
+                "catIndex": 1
+            },
+            {
+                "name": "P",
+                "catIndex": 1
+            },
+            {
+                "name": "Y",
+                "catIndex": 1
+            },
+            {
+                "name": "R",
+                "catIndex": 1
+            },
+            {
+                "name": "X",
+                "catIndex": 1
+            }
+        ]
+    }
+}
