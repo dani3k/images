@@ -1,7 +1,7 @@
 {
     "questionData" :{
         "question" : "test lang eto",
-        "categories" : ["Vowel", "Consonant"],
+        "categories" : ["test", "hindi"],
         "choices" : [
             {
                 "name": "A",
