@@ -1,0 +1,58 @@
+{
+    "questionData" :{
+        "question" : "Living thing or not",
+        "categories" : ["Living", "Inanimate"],
+        "choices" : [
+            {
+                "name":"Cat",
+                "url": "https://raw.githubusercontent.com/dani3k/images/main/pets_andreas_lischka_siamese_cat_hd_tinified.jpg",
+                "catIndex": 0
+            },
+            {
+                "name":"Snail",
+                "url": "https://raw.githubusercontent.com/dani3k/images/main/animals_azeret33_snail_hd_tinified.jpg",
+                "catIndex": 0
+            },
+            {
+                "name":"Snake",
+                "url": "https://raw.githubusercontent.com/dani3k/images/main/animals_karsten_paulick_boa_constrictor_hd_tinified.jpg",
+                "catIndex": 0
+            },
+            {
+                "name":"Frog",
+                "url": "https://raw.githubusercontent.com/dani3k/images/main/animals_pixabay_tree_frog_hd_tinified.jpg",
+                "catIndex": 0
+            },
+            {
+                "name":"Moszna Castle",
+                "url": "https://raw.githubusercontent.com/dani3k/images/main/castles_bochnaank_moszna_castle_poland_hd_tinified.jpg",
+                "catIndex": 1
+            },
+            {
+                "name":"Eltz Castle",
+                "url": "https://raw.githubusercontent.com/dani3k/images/main/castles_michael_bu%C3%9Fmann_eltz_castle_germany_hd_tinified.jpg",
+                "catIndex": 1
+            },
+            {
+                "name":"Glamis Castle",
+                "url": "https://github.com/dani3k/images/blob/main/castles_thomas_h_glamis_castle_scotland_hd_tinified.jpg",
+                "catIndex": 1
+            },
+            {
+                "name":"Hong Kong",
+                "url": "https://raw.githubusercontent.com/dani3k/images/main/cities_florian_wehde_hong_kong_china_hd_tinified.jpg",
+                "catIndex": 1
+            },
+            {
+                "name":"Paris",
+                "url": "https://raw.githubusercontent.com/dani3k/images/main/cities_matthiasfr_paris_france_hd_tinified.jpg",
+                "catIndex": 1
+            },
+            {
+                "name":"Monaco",
+                "url": "https://raw.githubusercontent.com/dani3k/images/main/cities_pierre_blach%C3%A9_monaco_hd_tinified.jpg",
+                "catIndex": 1
+            }
+        ]
+    }
+}
